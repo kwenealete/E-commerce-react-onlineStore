@@ -6,6 +6,7 @@ haters/
 .build/
 layout.md
 .env
+.env.local
 node_modules/
 stepped-solutions/
 
